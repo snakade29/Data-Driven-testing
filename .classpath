@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-codec-1.15.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-collections4-4.4.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-compress-1.21.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-io-2.11.0 (1).jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/commons-math3-3.6.1.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/curvesapi-1.07.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/log4j-api-2.17.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-bin-3.10-FINAL-20140208.zip"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-examples-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-excelant-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-javadoc-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-ooxml-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-ooxml-full-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-ooxml-lite-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/poi-scratchpad-5.2.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/slf4j-api-1.7.36.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/SparseBitSet-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/POI jar/xmlbeans-5.0.3.jar"/>
+	<classpathentry kind="lib" path="D:/selenium/selenium jar/selenium-server-4.6.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
